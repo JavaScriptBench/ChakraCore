@@ -1,7 +1,13 @@
 # ChakraCore
 
 
-When build, just, `./build.sh`
+When build, just, 
+
+With JIT:
+`./build.sh`
+
+Without JIT:
+`./build.sh --no-jit`
 
 [![Discord Chat](https://img.shields.io/discord/695166668967510077?label=Discord&logo=Discord)](https://discord.gg/dgRawPdNuC)
 [![Licensed under the MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Microsoft/ChakraCore/blob/master/LICENSE.txt)
