@@ -1,6 +1,6 @@
 # ChakraCore
 
-
+==========================================
 When build, just, 
 
 With JIT:
@@ -12,6 +12,7 @@ Without JIT:
 The binaries will be located at: `~/ChakraCore/ChakraCore/out/Release`
 
 Both files has to be copied for execution: ***`ch`*** and ***`libChakraCore.so`***
+==========================================
 
 [![Discord Chat](https://img.shields.io/discord/695166668967510077?label=Discord&logo=Discord)](https://discord.gg/dgRawPdNuC)
 [![Licensed under the MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Microsoft/ChakraCore/blob/master/LICENSE.txt)
